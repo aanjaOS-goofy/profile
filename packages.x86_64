@@ -108,7 +108,7 @@ usbmuxd
 usbutils
 vim
 # Installing virtualbox-guest-utils with X11 support
-virtualbox-guest-utils #-nox
+virtualbox-guest-utils
 vpnc
 wireless-regdb
 wireless_tools
@@ -131,7 +131,7 @@ networkmanager
 gnome-text-editor
 eog
 nano
-xorg # VMSVGA support (Virtualbox, VMware)
+xorg
 # CJK Support
 noto-fonts
 noto-fonts-cjk
